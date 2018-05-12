@@ -1,0 +1,10 @@
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\bin\Debug\Listas enlazadas dobles.exe.config
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\bin\Debug\Listas enlazadas dobles.exe
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\bin\Debug\Listas enlazadas dobles.pdb
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas_enlazadas_dobles.Form1.resources
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas_enlazadas_dobles.Properties.Resources.resources
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.exe
+C:\Users\JoséEnrique\source\repos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.pdb
